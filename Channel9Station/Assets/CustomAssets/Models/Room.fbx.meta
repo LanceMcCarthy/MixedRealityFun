@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 15b36b0561efa154f8141c505fe44ef0
+timeCreated: 1504136684
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bigPlanet
+    100002: Crate
+    100004: Crate1
+    100006: Crate2
+    100008: Crate3
+    100010: Crate4
+    100012: Moon
+    100014: Pillar
+    100016: Pillar1
+    100018: Pillar2
+    100020: Pillar3
+    100022: Pillar4
+    100024: place3dTexture1
+    100026: Planet1
+    100028: Planet2
+    100030: Planet3
+    100032: Planet4
+    100034: Projector
+    100036: projectorSpotLight
+    100038: Ring
+    100040: //RootNode
+    100042: Room
+    100044: roomPointLight
+    100046: spotLight1
+    100048: Sun
+    100050: sunPointLight
+    400000: bigPlanet
+    400002: Crate
+    400004: Crate1
+    400006: Crate2
+    400008: Crate3
+    400010: Crate4
+    400012: Moon
+    400014: Pillar
+    400016: Pillar1
+    400018: Pillar2
+    400020: Pillar3
+    400022: Pillar4
+    400024: place3dTexture1
+    400026: Planet1
+    400028: Planet2
+    400030: Planet3
+    400032: Planet4
+    400034: Projector
+    400036: projectorSpotLight
+    400038: Ring
+    400040: //RootNode
+    400042: Room
+    400044: roomPointLight
+    400046: spotLight1
+    400048: Sun
+    400050: sunPointLight
+    2100000: wallM
+    2100002: floorM
+    2100004: phong1
+    2100006: glassM
+    2100008: crateM
+    2100010: columnM
+    2100012: controlpanelM
+    2100014: projectorM
+    2100016: sunM
+    2100018: earthM
+    2100020: moonM
+    2100022: venusM
+    2100024: saturnM
+    2100026: neptuneM
+    2100028: bigPlanetM
+    2300000: bigPlanet
+    2300002: Crate
+    2300004: Crate1
+    2300006: Crate2
+    2300008: Crate3
+    2300010: Crate4
+    2300012: Moon
+    2300014: Pillar
+    2300016: Pillar1
+    2300018: Pillar2
+    2300020: Pillar3
+    2300022: Pillar4
+    2300024: Planet1
+    2300026: Planet2
+    2300028: Planet3
+    2300030: Planet4
+    2300032: Projector
+    2300034: Ring
+    2300036: Room
+    2300038: Sun
+    3300000: bigPlanet
+    3300002: Crate
+    3300004: Crate1
+    3300006: Crate2
+    3300008: Crate3
+    3300010: Crate4
+    3300012: Moon
+    3300014: Pillar
+    3300016: Pillar1
+    3300018: Pillar2
+    3300020: Pillar3
+    3300022: Pillar4
+    3300024: Planet1
+    3300026: Planet2
+    3300028: Planet3
+    3300030: Planet4
+    3300032: Projector
+    3300034: Ring
+    3300036: Room
+    3300038: Sun
+    4300000: Room
+    4300002: Crate
+    4300004: Crate1
+    4300006: Crate2
+    4300008: Crate3
+    4300010: Crate4
+    4300012: Pillar
+    4300014: Pillar1
+    4300016: Pillar2
+    4300018: Pillar3
+    4300020: Pillar4
+    4300022: Projector
+    4300024: Sun
+    4300026: Planet1
+    4300028: Moon
+    4300030: Planet2
+    4300032: Planet3
+    4300034: Ring
+    4300036: Planet4
+    4300038: bigPlanet
+    9500000: //RootNode
+    10800000: roomPointLight
+    10800002: spotLight1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

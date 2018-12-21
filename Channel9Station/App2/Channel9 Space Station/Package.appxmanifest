@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" 
+         xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" 
+         xmlns:uap2="http://schemas.microsoft.com/appx/manifest/uap/windows10/2"
+         xmlns:uap5="http://schemas.microsoft.com/appx/manifest/uap/windows10/5"
+         IgnorableNamespaces="uap uap2 uap5 mp"
+         xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10">
+  <Identity Name="Channel9Station" Publisher="CN=DefaultCompany" Version="1.0.0.0" />
+  <mp:PhoneIdentity PhoneProductId="cae65bef-c5a6-4774-9398-162dbc62c945" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>Channel9 Space Station</DisplayName>
+    <PublisherDisplayName>DefaultCompany</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.16299.0" MaxVersionTested="10.0.16299.0" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Channel9Station.App">
+      <uap:VisualElements DisplayName="Channel9 Space Station" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="Channel9 Space Station" BackgroundColor="transparent">
+        <uap:DefaultTile ShortName="Channel9 Space Station" Wide310x150Logo="Assets\Wide310x150Logo.png" >
+          <uap5:MixedRealityModel Path="Assets\Donut.glb" />
+        </uap:DefaultTile>
+        <uap:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#FFFFFF" />
+        <uap:InitialRotationPreference>
+          <uap:Rotation Preference="landscape" />
+          <uap:Rotation Preference="landscapeFlipped" />
+          <uap:Rotation Preference="portrait" />
+          <uap:Rotation Preference="portraitFlipped" />
+        </uap:InitialRotationPreference>
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+</Package>
