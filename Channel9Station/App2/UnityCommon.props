@@ -1,9 +1,0 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-    <PropertyGroup>
-        <UnityWSASolutionName>Channel9 Space Station</UnityWSASolutionName>
-        <UnityWSASolutionDir>D:\UnityProjects\Channel9Station\App2\</UnityWSASolutionDir>
-        <UnityProjectDir>D:\UnityProjects\Channel9Station\</UnityProjectDir>
-        <UnityWSAPlayerDir>C:\Program Files\Unity 2017.2.0p1-MRTP4\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
-        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
-    </PropertyGroup>
-</Project>
