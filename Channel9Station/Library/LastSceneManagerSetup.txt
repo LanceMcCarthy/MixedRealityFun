@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ObjectManipulations.unity
+- path: Assets/SpaceStation.unity
   isLoaded: 1
   isActive: 1
